@@ -1,2 +1,2 @@
-# mi-primera-landing
-aca estamos empezando a crear mi landng page desde cero
+# mi-repositorio-personal
+diseño de mi landing page y practicas
